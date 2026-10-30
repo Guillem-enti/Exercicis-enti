@@ -4,7 +4,7 @@
 int main()
 {
 
-	//definimos las variables donde guardamos lo que dice el usuario, la contraseña y el numero de intentos
+	//definimos las variables donde guardamos lo que dice el usuario, la contraseña y el numero de intentos y punto
 	std::string contrasena = "hola184";
 	std::string contrasenaUsuario = "";
 	int intentos = 0;
